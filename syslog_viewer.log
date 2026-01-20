@@ -146,3 +146,24 @@
 2026-01-19 18:02:05,591 INFO Missing ranges: [('2026-01-18 12:00:00 AM', '2026-01-19 11:59:59 PM')]
 2026-01-19 18:02:12,088 INFO Cache now has 199667 entries
 2026-01-19 18:02:12,209 WARNING Partial availability for requested range
+2026-01-19 18:10:01,123 INFO Initialized log cache
+2026-01-19 18:11:11,881 INFO Initialized log cache
+2026-01-19 18:12:10,383 INFO Fetch requested: 2026-01-18 03:05:00 PM -> 2026-01-19 06:05:00 PM
+2026-01-19 18:12:10,384 INFO Missing ranges: [('2026-01-18 03:05:00 PM', '2026-01-19 06:05:00 PM')]
+2026-01-19 18:12:17,244 INFO Cache now has 202729 entries
+2026-01-19 18:12:17,384 WARNING Partial availability for requested range
+2026-01-19 18:12:24,426 INFO Initialized log cache
+2026-01-19 18:12:34,378 INFO Fetch requested: 2026-01-19 12:00:00 AM -> 2026-01-19 11:59:59 PM
+2026-01-19 18:12:34,378 INFO Missing ranges: [('2026-01-19 12:00:00 AM', '2026-01-19 11:59:59 PM')]
+2026-01-19 18:12:41,929 INFO Cache now has 214149 entries
+2026-01-19 18:12:42,059 WARNING Partial availability for requested range
+2026-01-19 18:12:49,226 INFO Initialized log cache
+2026-01-19 18:13:54,659 INFO Initialized log cache
+2026-01-19 18:14:22,575 INFO Fetch requested: 2026-01-19 01:19:59 PM -> 2026-01-19 06:39:59 PM
+2026-01-19 18:14:22,578 INFO Missing ranges: [('2026-01-19 01:19:59 PM', '2026-01-19 06:39:59 PM')]
+2026-01-19 18:14:30,601 INFO Cache now has 216394 entries
+2026-01-19 18:14:30,748 WARNING Partial availability for requested range
+2026-01-19 18:15:11,248 INFO Fetch requested: 2026-01-08 01:19:59 PM -> 2026-01-08 06:39:59 PM
+2026-01-19 18:15:11,249 INFO Missing ranges: [('2026-01-08 01:19:59 PM', '2026-01-08 06:39:59 PM')]
+2026-01-19 18:15:11,482 INFO Cache now has 216394 entries
+2026-01-19 18:15:11,667 WARNING No logs found for requested range

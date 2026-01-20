@@ -2,6 +2,12 @@
 
 Streamlit UI for chunking Ubuntu `journalctl` logs into fixed time intervals and quickly inspecting each interval.
 
+<p align="center">
+  <img src="media/syslog-visualize.gif" width="900">
+  <br/>
+  <em>Live XOR training with push-based updates inside Excel</em>
+</p>
+
 ## Features
 - Date/time range + interval size (seconds).
 - Caches fetched logs and only requests missing ranges.
